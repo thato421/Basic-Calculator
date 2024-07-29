@@ -86,7 +86,7 @@ function addDivide(){
 }
 function addPercent(){
 
-    calcInput.value += '%';
+    calcInput.value += '/100';
 
 }
 function evalInput(){
