@@ -1,7 +1,7 @@
 # Basic-Calculator
 A Basic Function Calculator
 
-#Calculator Functions and/or Operations
+# Calculator Functions and/or Operations
 
 1. Ability to add numbers with one another
 2. Ability to multiply numbers with one another
