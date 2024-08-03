@@ -9,3 +9,5 @@ A Basic Function Calculator
 4. Ability to subtract numbers with one another
 5. Ability to delete a single character at a time
 6. Ability to clear all characters on the screen
+
+Live Website is @ https://thato421.github.io/Basic-Calculator/
